@@ -13,7 +13,7 @@
     "language_info": {
       "name": "python"
     },
-    "accelerator": "GPU",
+    "accelerator": "TPU",
     "gpuClass": "standard"
   },
   "cells": [
@@ -62,11 +62,11 @@
       ],
       "metadata": {
         "id": "ExyxEatFKduX",
-        "outputId": "53e63e78-d5b1-43e8-ad14-30a8022be9be",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 248
-        }
+        },
+        "outputId": "53e63e78-d5b1-43e8-ad14-30a8022be9be"
       },
       "execution_count": 1,
       "outputs": [
